@@ -1,0 +1,7 @@
+# CloudCodeX defaults
+node_modules/
+.env
+*.log
+__pycache__/
+*.pyc
+.DS_Store
